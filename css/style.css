@@ -1,0 +1,39 @@
+#xd{
+    padding-top: 200px;
+}
+
+#OMG{
+    padding-top: 150px;
+    
+}
+#lel{
+    border-radius: 15px;
+    width: 250px;
+    height: 50px;
+
+}
+.oker{
+    color: #FFA410;
+}
+button.yes{
+    background-color: #FFA410;
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+    width: 250px;
+    height: 50px;
+    color: black;
+    border: none;
+    transition: all 0.5s ease;
+}
+input{
+    border-radius: 10px;
+    background-color: white;
+    width: 250px;
+    height: 50px;
+    flex-shrink: 0;
+    padding-left: 10px;
+}
+.kk{
+    color: #FFA410;
+}
